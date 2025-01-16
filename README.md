@@ -2,7 +2,7 @@ Kaguyo's Github 📊
 ---
 Hi there! 👋 I'm Gabriel Silverio, a passionate developer eager to code, learn and solve complex problems, I am  relentlessly persuing my goals, expanding my knowledge in software development, such as APIs, Bases, Websites, Mobile, Operational Systems, Rapid Applications, Low level programming and so on. 
 
-Current my skill set follows: 
+Currently my skill set follows: 
 
 ## 🧬 My Skill Set
 <div align="center">
