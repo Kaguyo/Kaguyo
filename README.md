@@ -48,7 +48,7 @@ Current my skill set follows:
 
 ## 🗂️ Projects in Progress
 - **C++**: Physics Simulation in SFML from scratch, Game Engine and small games in SFML for OOP and fundamental
-  principles in C++ (Like not losing pointers and managing memory manually 🆘).
+  principles in C++ (Like not losing pointers and manually managing memory 🆘).
 - **Express.js**: A REST API for managing incoming requests with CRUD operations.
 - **Docker**: Containerizing a small full-stack application teaming with other collaborators.
 
