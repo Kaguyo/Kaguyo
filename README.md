@@ -16,29 +16,35 @@ Current my skill set follows:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
 <img src="https://img.icons8.com/fluency/48/express-js.png" width="50" height="50" alt="Express.js"/>
 
-</div>
+<div/>
 
 ##
 
 <div align="center">
-
+    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaguyo&layout=compact&theme=radical&bg_color=30,1A1B27,191A23&title_color=8E24AA&border_color=8E24AA&langs_count=6&hide=html,css)
 
 <div/>
     
+<div align="left">
+    
 ## ✍️ Technologies I'm Learning
 
+<div/>
+    
 ### 🆓 C++
-- Exploring advanced programming concepts like object-oriented design, memory management, and performance optimization.
-- Building small projects and tools such as Physics Simulators, OpenGL integrated projects and Game Engines to deepen my understanding of the language.
+- Exploring advanced programming concepts like object-oriented design,
+  memory management, and performance optimization.  
+- Building small projects and tools such as Physics Simulators,
+  OpenGL integrated projects and Game Engines to deepen my understanding of the language.
 
 ### 🌐 Express.js
 - Learning to create backend APIs and build scalable, server-side applications.
 - Experimenting with routing, middleware, and RESTful design principles.
 
 ### 🐳 Docker
-- Understanding containerization to streamline development and deployment workflows.
-- Learning to create Docker images, write Dockerfiles, and manage containers effectively.
+* Understanding containerization to streamline development and deployment workflows.
+* Learning to create Docker images, write Dockerfiles, and manage containers effectively.
 
 ## 🗂️ Projects in Progress
 - **C++**: Physics Simulation in SFML from scratch, Game Engine and small games in SFML for OOP and fundamental
@@ -61,6 +67,6 @@ I believe learning is most effective when paired with practical projects and exp
     <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="LinkedIn" width="140" style="margin: 0 10px;">
   </a>
   <a href="mailto:dev.gabriel.silverio@gmail.com" target="_blank">
-    <img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="Gmail" width="140" style="margin: 0 10px;">
+    <img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="Gmail" width="120" style="margin: 0 10px;">
   </a>
 </p>
