@@ -4,10 +4,9 @@ Hi there! 👋 I'm Gabriel Silverio, a passionate developer eager to code, learn
 
 Current my skill set follows: 
 
----
 ## 🧬 My Skill Set
 <div align="center">
-  
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
@@ -19,8 +18,14 @@ Current my skill set follows:
 
 </div>
 
----
+##
 
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaguyo&layout=compact&theme=radical&bg_color=30,1A1B27,191A23&title_color=8E24AA&border_color=8E24AA&langs_count=6&hide=html,css)
+
+<div/>
+    
 ## ✍️ Technologies I'm Learning
 
 ### 🆓 C++
@@ -35,30 +40,21 @@ Current my skill set follows:
 - Understanding containerization to streamline development and deployment workflows.
 - Learning to create Docker images, write Dockerfiles, and manage containers effectively.
 
----
-
 ## 🗂️ Projects in Progress
 - **C++**: Physics Simulation in SFML from scratch, Game Engine and small games in SFML for OOP and fundamental
   principles in C++ (Like not losing pointers and managing memory manually 🆘).
 - **Express.js**: A REST API for managing incoming requests with CRUD operations.
 - **Docker**: Containerizing a small full-stack application teaming with other collaborators.
 
----
-
 ## 📈 My Learning Goals
 - Gain proficiency in C++ for high-performance applications.
 - Build and master Server-side applications in Express.js.
 - Master Docker workflows to simplify deployment processes.
 
----
-
 ## 💡 Reach to Me!
 I believe learning is most effective when paired with practical projects and experimentation. Feel free to give advices, suggest ideas for projects or challenges I can take on! I love it living programming and I won't miss a chance to hop in challenging and exciting projects
 
----
-
 ## 🤝 Connect with Me
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-silverio-8b35a4241/" target="_blank">
