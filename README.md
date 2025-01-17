@@ -3,7 +3,7 @@ Kaguyo's Github 📊
 Olá! 👋 Me chamo Gabriel Silverio, um desenvolvedor apaixonado e ansioso para programar, aprender e resolver problemas complexos. Estou incessantemente perseguindo meus objetivos, expandindo meu conhecimento em desenvolvimento de software, como APIs, Bancos de Dados, Websites, Mobile, Sistemas Operacionais, Aplicações Rápidas, Programação de Baixo Nível e muito mais.
 
 <p align="center">
-  <a href="README.md">
+  <a href="https://github.com/Kaguyo">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazilian Portuguese" width="50" height="50">
   </a>
   <a href="README_en.md">
