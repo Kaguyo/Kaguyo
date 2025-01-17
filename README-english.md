@@ -1,6 +1,4 @@
-### Kaguyo's Github 📊
-
----
+## Kaguyo's Github 📊
 
 Hi there! 👋 I'm Gabriel Silverio, a passionate developer eager to code, learn and solve complex problems. I am relentlessly pursuing my goals, expanding my knowledge in software development, such as APIs, Databases, Websites, Mobile, Operating Systems, Rapid Applications, Low-level programming, and so on.
 
