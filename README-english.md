@@ -5,10 +5,10 @@
 Hi there! 👋 I'm Gabriel Silverio, a passionate developer eager to code, learn and solve complex problems. I am relentlessly pursuing my goals, expanding my knowledge in software development, such as APIs, Databases, Websites, Mobile, Operating Systems, Rapid Applications, Low-level programming, and so on.
 
 <p align="center">
-  <a href="README.md">
+  <a href="https://github.com/Kaguyo">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazilian Portuguese" width="50" height="50">
   </a>
-  <a href="README_en.md">
+  <a href="https://github.com/Kaguyo/Kaguyo/blob/main/README-english.md">
     <img src="https://www.svgrepo.com/show/248851/united-states.svg" alt="English" width="50" height="50">
   </a>
 </p>
