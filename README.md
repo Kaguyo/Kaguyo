@@ -1,6 +1,6 @@
 Kaguyo's Github 📊
 ---
-Olá! 👋 Me chamo Gabriel Silverio, um desenvolvedor apaixonado e ansioso por programação, aprender e resolver problemas complexos. Estou incessantemente perseguindo meus objetivos, expandindo meu conhecimento em desenvolvimento de software, como APIs, Bancos de Dados, Websites, Mobile, Sistemas Operacionais, Aplicações Rápidas, Programação de Baixo Nível e muito mais.
+Olá! 👋 Me chamo Gabriel Silverio, um desenvolvedor apaixonado por programação, aprender e resolver problemas complexos. Estou incessantemente perseguindo meus objetivos, expandindo meu conhecimento em desenvolvimento de software, como APIs, Bancos de Dados, Websites, Mobile, Sistemas Operacionais, Aplicações Rápidas, Programação de Baixo Nível e muito mais.
 
 <p align="center">
   <a href="https://github.com/Kaguyo">
