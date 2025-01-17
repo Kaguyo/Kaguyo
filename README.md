@@ -47,17 +47,17 @@ Currently my skill set follows:
 * Learning to create Docker images, write Dockerfiles, and manage containers effectively.
 
 ## 🗂️ Projects in Progress
-- **C++**: Physics Simulation in SFML from scratch, Game Engine and small games in SFML for OOP and fundamental
+- Physics Simulation in SFML from scratch, Game Engine and small games in SFML for OOP and fundamental
   principles in C++ (Like not losing pointers and manually managing memory 🆘).
-- **Express.js**: A REST API for managing incoming requests with CRUD operations.
-- **Docker**: Containerizing a small full-stack application teaming with other collaborators.
+- A REST API for managing incoming requests with CRUD operations in Express.JS.
+- Containerizing a small full-stack application with Docker, teaming with other collaborators.
 
 ## 📈 My Learning Goals
 - Gain proficiency in C++ for high-performance applications.
 - Build and master Server-side applications in Express.js.
 - Master Docker workflows to simplify deployment processes.
 
-## 💡 Reach to Me!
+## 💡 Reach Me!
 I believe learning is most effective when paired with practical projects and experimentation. Feel free to give advices, suggest ideas for projects or challenges I can take on! I love it living programming and I won't miss a chance to hop in challenging and exciting projects
 
 ## 🤝 Connect with Me
