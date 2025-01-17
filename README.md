@@ -6,7 +6,7 @@ Olá! 👋 Me chamo Gabriel Silverio, um desenvolvedor apaixonado e ansioso para
   <a href="https://github.com/Kaguyo">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazilian Portuguese" width="50" height="50">
   </a>
-  <a href="README_en.md">
+  <a href="https://github.com/Kaguyo/Kaguyo/blob/main/README-english.md">
     <img src="https://www.svgrepo.com/show/248851/united-states.svg" alt="English" width="50" height="50">
   </a>
 </p>
