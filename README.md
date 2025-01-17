@@ -1,10 +1,18 @@
 Kaguyo's Github 📊
 ---
-Hi there! 👋 I'm Gabriel Silverio, a passionate developer eager to code, learn and solve complex problems, I am  relentlessly persuing my goals, expanding my knowledge in software development, such as APIs, Bases, Websites, Mobile, Operational Systems, Rapid Applications, Low level programming and so on. 
+Olá! 👋 Me chamo Gabriel Silverio, um desenvolvedor apaixonado e ansioso para programar, aprender e resolver problemas complexos. Estou incessantemente perseguindo meus objetivos, expandindo meu conhecimento em desenvolvimento de software, como APIs, Bancos de Dados, Websites, Mobile, Sistemas Operacionais, Aplicações Rápidas, Programação de Baixo Nível e muito mais.
 
-Currently my skill set follows: 
+<p align="center">
+  <a href="README.md">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazilian Portuguese" width="50" height="50">
+  </a>
+  <a href="README_en.md">
+    <img src="https://www.svgrepo.com/show/248851/united-states.svg" alt="English" width="50" height="50">
+  </a>
+</p>
 
-## 🧬 My Skill Set
+Atualmente domino as seguintes Habilidades:
+## 🧬 Minhas Habilidades
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
@@ -28,39 +36,34 @@ Currently my skill set follows:
     
 <div align="left">
     
-## ✍️ Technologies I'm Learning
+## ✍️ Tecnologias que Estou Aprendendo
 
-<div/>
-    
 ### 🆓 C++
-- Exploring advanced programming concepts like object-oriented design,
-  memory management, and performance optimization.  
-- Building small projects and tools such as Physics Simulators,
-  OpenGL integrated projects and Game Engines to deepen my understanding of the language.
+- Explorando conceitos avançados de programação, como design orientado a objetos, gerenciamento de memória e otimização de desempenho.
+- Construindo pequenos projetos e ferramentas, como simuladores de física, projetos integrados com OpenGL e Game Engines para aprofundar meu entendimento da linguagem.
 
 ### 🌐 Express.js
-- Learning to create backend APIs and build scalable, server-side applications.
-- Experimenting with routing, middleware, and RESTful design principles.
+- Aprendendo a criar APIs backend e construir aplicações escaláveis no lado do servidor.
+- Experimentando com roteamento, middleware e princípios de design RESTful.
 
 ### 🐳 Docker
-* Understanding containerization to streamline development and deployment workflows.
-* Learning to create Docker images, write Dockerfiles, and manage containers effectively.
+- Compreendendo a conteinerização para simplificar fluxos de trabalho de desenvolvimento e implantação.
+- Aprendendo a criar imagens Docker, escrever Dockerfiles e gerenciar contêineres de forma eficaz.
 
-## 🗂️ Projects in Progress
-- Physics Simulation in SFML from scratch, Game Engine and small games in SFML for OOP and fundamental
-  principles in C++ (Like not losing pointers and manually managing memory 🆘).
-- A REST API for managing incoming requests with CRUD operations in Express.JS.
-- Containerizing a small full-stack application with Docker, teaming with other collaborators.
+## 🗂️ Projetos em Andamento
+- Simulação de física no SFML do zero, motor de jogos e pequenos jogos no SFML para aprender OOP e princípios fundamentais em C++ (como evitar perder ponteiros e gerenciar memória manualmente 🆘).
+- Uma API REST para gerenciar requisições com operações CRUD usando Express.JS.
+- Conteinerização de uma pequena aplicação full-stack com Docker, colaborando com outros desenvolvedores.
+  
+## 📈 Meus Objetivos de Aprendizado Atualmente
+- Tornar-me proficiente em C++ para aplicações de alto desempenho.
+- Construir e dominar aplicações no lado do servidor usando Express.js.
+- Dominar fluxos de trabalho com Docker para simplificar processos de implantação.
 
-## 📈 My Learning Goals
-- Gain proficiency in C++ for high-performance applications.
-- Build and master Server-side applications in Express.js.
-- Master Docker workflows to simplify deployment processes.
+## 💡Entre em Contato!
+Acredito que o aprendizado é mais eficaz quando combinado com projetos práticos e experimentação. Sinta-se à vontade para dar conselhos, sugerir ideias para projetos ou desafios que eu possa enfrentar! Amo programar e não vou perder a chance de mergulhar em projetos desafiadores e empolgantes.
 
-## 💡 Reach Me!
-I believe learning is most effective when paired with practical projects and experimentation. Feel free to give advices, suggest ideas for projects or challenges I can take on! I love it living programming and I won't miss a chance to hop in challenging and exciting projects
-
-## 🤝 Connect with Me
+## 🤝 Conecte-se Comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-silverio-8b35a4241/" target="_blank">
