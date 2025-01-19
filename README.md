@@ -11,6 +11,10 @@ Olá! 👋 Me chamo Gabriel Silverio, um desenvolvedor apaixonado por programaç
   </a>
 </p>
 
+<p align="center">
+  (Aperte para selecionar Idioma)
+<p/>
+
 Atualmente domino as seguintes Habilidades:
 ## 🧬 Minhas Habilidades
 <div align="center">
