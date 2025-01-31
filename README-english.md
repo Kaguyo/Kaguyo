@@ -3,6 +3,10 @@
 ---
 
 <p align="center">
+  (Press to select a language)
+<p/>
+  
+<p align="center">
   <a href="https://github.com/Kaguyo">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazilian Portuguese" width="50" height="50">
   </a>
@@ -10,10 +14,6 @@
     <img src="https://www.svgrepo.com/show/248851/united-states.svg" alt="English" width="50" height="50">
   </a>
 </p>
-
-<p align="center">
-  (Press to select a language)
-<p/>
 
 Hi there! 👋 I'm Gabriel Silverio, a passionate developer eager to code, learn and solve complex problems. I am relentlessly pursuing my goals, expanding my knowledge in software development, such as Databases, Fullstack, Rest APIs, Mobile, Low-level Programming and Games.
 
