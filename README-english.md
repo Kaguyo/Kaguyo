@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  (Aperte para selecionar Idioma)
+  (Press to select a language)
 <p/>
 
 Hi there! 👋 I'm Gabriel Silverio, a passionate developer eager to code, learn and solve complex problems. I am relentlessly pursuing my goals, expanding my knowledge in software development, such as Databases, Fullstack, Rest APIs, Mobile, Low-level Programming and Games.
