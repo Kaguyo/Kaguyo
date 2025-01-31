@@ -1,6 +1,6 @@
-## Kaguyo's Github 📊
+### Kaguyo's Github 📊
 
-Hi there! 👋 I'm Gabriel Silverio, a passionate developer eager to code, learn and solve complex problems. I am relentlessly pursuing my goals, expanding my knowledge in software development, such as APIs, Databases, Websites, Mobile, Operating Systems, Rapid Applications, Low-level programming, and so on.
+---
 
 <p align="center">
   <a href="https://github.com/Kaguyo">
@@ -12,67 +12,62 @@ Hi there! 👋 I'm Gabriel Silverio, a passionate developer eager to code, learn
 </p>
 
 <p align="center">
-  (Press to select Language)
+  (Aperte para selecionar Idioma)
 <p/>
-  
-## 🧬 My Skill Set
-<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
-<img src="https://img.icons8.com/fluency/50/000000/javascript.png" width="50" height="50" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
-<img src="https://img.icons8.com/fluency/48/express-js.png" width="50" height="50" alt="Express.js"/>
+Hi there! 👋 I'm Gabriel Silverio, a passionate developer eager to code, learn and solve complex problems. I am relentlessly pursuing my goals, expanding my knowledge in software development, such as Databases, Fullstack, Rest APIs, Mobile, Low-level Programming and Games.
+
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaguyo&layout=compact&theme=radical&bg_color=30,1A1B27,191A23&title_color=8E24AA&border_color=8E24AA&langs_count=6&hide=html,css)
+  
+</div> 
+
+### 🧬 My Skills:
+
+--- 
+
+### Front-End
+
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react)](https://skillicons.dev)
 
 </div>
 
 ##
 
-<div align="center">
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaguyo&layout=compact&theme=radical&bg_color=30,1A1B27,191A23&title_color=8E24AA&border_color=8E24AA&langs_count=6&hide=html,css)
+### Back-End
 
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,python,js,ts,docker,postgres,express,nodejs,postman)](https://skillicons.dev)
+  
 </div>
 
+##
 
-## ✍️ Technologies I'm Learning
+### High-Performance
 
-### 🆓 C++
-- Exploring advanced programming concepts like object-oriented design, memory management, and performance optimization.  
-- Building small projects and tools such as Physics Simulators, OpenGL-integrated projects, and Game Engines to deepen my understanding of the language.
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake)](https://skillicons.dev)
+  
+</div>
 
-### 🌐 Express.js
-- Learning to create backend APIs and build scalable, server-side applications.
-- Experimenting with routing, middleware, and RESTful design principles.
+##
 
-### 🐳 Docker
-- Understanding containerization to streamline development and deployment workflows.
-- Learning to create Docker images, write Dockerfiles, and manage containers effectively.
+### 3D Modelling
 
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
+  
+</div>
 
-## 🗂️ Projects in Progress
-- Physics Simulation in SFML from scratch, Game Engine, and small games in SFML for OOP and fundamental principles in C++ (like not losing pointers and manually managing memory 🆘).
-- A REST API for managing incoming requests with CRUD operations in Express.JS.
-- Containerizing a small full-stack application with Docker, teaming with other collaborators.
+---
 
-
-## 📈 My Learning Goals
-- Gain proficiency in C++ for high-performance applications.
-- Build and master Server-side applications in Express.js.
-- Master Docker workflows to simplify deployment processes.
-
-
-## 💡 Reach Me!
-I believe learning is most effective when paired with practical projects and experimentation. Feel free to give advice, suggest ideas for projects, or challenges I can take on! I love living programming and won't miss a chance to hop into challenging and exciting projects.
-
-
-## 🤝 Connect with Me
-
+### Connect with Me 🤝
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-silverio-8b35a4241/" target="_blank">
     <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="LinkedIn" width="140" style="margin: 0 10px;">
