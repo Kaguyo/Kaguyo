@@ -4,6 +4,8 @@
 
 <p align="center">
   (Aperte para selecionar um Idioma)
+  <br>
+  (Press to select a Language)
 <p/>
 
 <p align="center">
