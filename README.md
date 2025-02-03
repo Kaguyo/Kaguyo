@@ -23,9 +23,11 @@ Olá! 👋 Me chamo Gabriel Silverio, um desenvolvedor apaixonado por programaç
   
 </div> 
 
+--- 
+
 ### 🧬 Minhas Habilidades:
 
---- 
+<br><br>
 
 ### Front-End
 
