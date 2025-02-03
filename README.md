@@ -27,9 +27,9 @@ Olá! 👋 Me chamo Gabriel Silverio, um desenvolvedor apaixonado por programaç
 
 ### 🧬 Minhas Habilidades:
 
-<br><br>
+<br>
 
-### Front-End
+**Front-End**
 
 <div align="center">
   
@@ -39,7 +39,7 @@ Olá! 👋 Me chamo Gabriel Silverio, um desenvolvedor apaixonado por programaç
 
 ##
 
-### Back-End
+**Back-End**
 
 <div align="center">
   
@@ -49,7 +49,7 @@ Olá! 👋 Me chamo Gabriel Silverio, um desenvolvedor apaixonado por programaç
 
 ##
 
-### High-Performance
+**High-Performance**
 
 <div align="center">
   
@@ -59,7 +59,7 @@ Olá! 👋 Me chamo Gabriel Silverio, um desenvolvedor apaixonado por programaç
 
 ##
 
-### 3D Modelling
+**3D Modelling**
 
 <div align="center">
   
