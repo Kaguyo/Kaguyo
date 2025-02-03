@@ -23,11 +23,13 @@ Hi there! 👋 I'm Gabriel Silverio, a passionate developer eager to code, learn
   
 </div> 
 
-### 🧬 My Skills:
-
 --- 
 
-### Front-End
+### 🧬 My Skill Set:
+
+<br>
+
+**Front-End**
 
 <div align="center">
   
@@ -37,7 +39,7 @@ Hi there! 👋 I'm Gabriel Silverio, a passionate developer eager to code, learn
 
 ##
 
-### Back-End
+**Back-End**
 
 <div align="center">
   
@@ -47,7 +49,7 @@ Hi there! 👋 I'm Gabriel Silverio, a passionate developer eager to code, learn
 
 ##
 
-### High-Performance
+**High-Performance**
 
 <div align="center">
   
@@ -57,7 +59,7 @@ Hi there! 👋 I'm Gabriel Silverio, a passionate developer eager to code, learn
 
 ##
 
-### 3D Modelling
+**3D Modelling**
 
 <div align="center">
   
