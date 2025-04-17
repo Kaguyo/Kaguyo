@@ -46,7 +46,7 @@ Hi there! 👋 I'm Gabriel Silverio, a passionate developer eager to code, learn
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,python,js,ts,docker,postgres,express,nodejs,postman)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,express,nodejs,cs,java,python,js,ts,docker,postgres,mysql,postman)](https://skillicons.dev)
   
 </div>
 
