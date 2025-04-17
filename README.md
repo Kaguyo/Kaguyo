@@ -17,7 +17,7 @@
   </a>
 </p>
 
-Olá! 👋 Me chamo Gabriel Silverio, um desenvolvedor apaixonado por programação, aprender e resolver problemas complexos. Estou incessantemente perseguindo meus objetivos, expandindo meu conhecimento em desenvolvimento de software, como Bancos de Dados, Fullstack, Mobile, Programação em Baixo Nível e Jogos.
+Olá! 👋 Me chamo Gabriel Silverio, um desenvolvedor apaixonado por programação, aprender e resolver problemas complexos. Estou incessantemente perseguindo meus objetivos, expandindo meu conhecimento em desenvolvimento de software, como Bancos de Dados, Web Fullstack, Mobile, Programação em Baixo Nível e Jogos.
 
 <div align="center">
   
