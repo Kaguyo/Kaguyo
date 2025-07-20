@@ -10,10 +10,10 @@
   
 <p align="center">
   <a href="https://github.com/Kaguyo">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazilian Portuguese" width="50" height="50">
+    <img src="https://flagicons.lipis.dev/flags/4x3/br.svg" alt="Brazilian Portuguese" width="50" height="50">
   </a>
   <a href="https://github.com/Kaguyo/Kaguyo/blob/main/README-english.md">
-    <img src="https://www.svgrepo.com/show/248851/united-states.svg" alt="English" width="50" height="50">
+    <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" alt="English" width="50" height="50">
   </a>
 </p>
 
