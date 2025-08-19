@@ -56,7 +56,7 @@ Hi there! 👋 I'm Gabriel Silverio, a passionate developer eager to code, learn
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
   
 </div>
 
