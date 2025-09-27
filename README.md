@@ -46,17 +46,17 @@ Olá! 👋 Me chamo Gabriel Silverio, um desenvolvedor apaixonado por programaç
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=dotnet,express,nodejs,cs,java,js,ts,docker,postgres,mysql,postman)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,express,nodejs,cs,js,ts,docker,postgres,mysql,postman)](https://skillicons.dev)
   
 </div>
 
 ##
 
-**High-Performance**
+**Desktop/Cross-Platform**
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,c,cpp,cs)](https://skillicons.dev)
   
 </div>
 
