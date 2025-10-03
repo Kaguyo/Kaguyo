@@ -52,7 +52,7 @@ Olá! 👋 Me chamo Gabriel Silverio, um desenvolvedor apaixonado por programaç
 
 ##
 
-**Desktop/Cross-Platform**
+**Desktop/Mobile**
 
 <div align="center">
   
