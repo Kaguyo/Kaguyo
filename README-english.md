@@ -52,11 +52,11 @@ Hi there! 👋 I'm Gabriel Silverio, a passionate developer eager to code, learn
 
 ##
 
-**Desktop/Cross-Platform**
+**Desktop/Mobile**
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=dotnet,c,cpp,cs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=unity,dotnet,c,cpp,cs,react,js,ts)](https://skillicons.dev)
   
 </div>
 
