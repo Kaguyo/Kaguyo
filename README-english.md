@@ -21,7 +21,7 @@ Hi there! 👋 I'm Gabriel Silverio, a passionate developer eager to code, learn
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kaguyo&layout=donut&theme=radical&langs_count=5&hide=css,java,javascript,python)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kaguyo&layout=donut&theme=radical&langs_count=5&hide=css,java,javascript,python,nsis)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
   
 </div> 
