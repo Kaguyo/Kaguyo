@@ -46,7 +46,7 @@ Hi there! 👋 I'm Gabriel Silverio, a passionate developer eager to code, learn
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=dotnet,express,nodejs,cs,js,ts,docker,postgres,mysql,mongodb,postman)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,express,nodejs,cs,go,js,ts,docker,postgres,mysql,mongodb,postman)](https://skillicons.dev)
   
 </div>
 
@@ -56,7 +56,7 @@ Hi there! 👋 I'm Gabriel Silverio, a passionate developer eager to code, learn
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=unrealengine,dotnet,c,cpp,cs,react,js,ts)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=unrealengine,dotnet,c,cpp,cs,go,react,js,ts)](https://skillicons.dev)
   
 </div>
 
