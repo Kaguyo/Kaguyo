@@ -56,7 +56,7 @@ Olá! 👋 Me chamo Gabriel Silverio, um desenvolvedor apaixonado por programaç
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=unrealengine,dotnet,c,cpp,cs,react,js,ts)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=unrealengine,dotnet,c,cpp,cs,go,react,js,ts)](https://skillicons.dev)
   
 </div>
 
