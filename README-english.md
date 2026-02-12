@@ -17,7 +17,7 @@
   </a>
 </p>
 
-Hi there! 👋 I'm Gabriel Silverio, a passionate developer eager to code, learn and solve complex problems. I am relentlessly pursuing my goals, expanding my knowledge in software development, such as Databases, Fullstack Web, Mobile, Low-level Programming and Games.
+Hi there! 👋 I'm Gabriel Silverio, a passionate developer eager to code, learn and solve complex problems. I am relentlessly pursuing my goals, expanding my knowledge in software development, such as Infrastructure (to some point 😉), Fullstack Web Development, Mobile, Desktop and System Design.
 
 <div align="center">
   
