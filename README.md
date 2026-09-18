@@ -36,7 +36,7 @@ Olá! 👋 Me chamo Gabriel Silverio, um desenvolvedor apaixonado por programaç
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,angular)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,js,ts,html,css,react,angular)](https://skillicons.dev)
 
 </div>
 
@@ -46,7 +46,7 @@ Olá! 👋 Me chamo Gabriel Silverio, um desenvolvedor apaixonado por programaç
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=dotnet,express,nodejs,cs,go,js,ts,docker,postgres,mysql,mongodb,postman)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,cs,go,js,ts,postgres,mongodb,postman)](https://skillicons.dev)
   
 </div>
 
@@ -56,7 +56,17 @@ Olá! 👋 Me chamo Gabriel Silverio, um desenvolvedor apaixonado por programaç
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=unrealengine,dotnet,c,cpp,cs,go,react,js,ts)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,go,react,js,ts)](https://skillicons.dev)
+  
+</div>
+
+##
+
+**Infraestructura & Cloud**
+
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=docker,azure,kubernetes)](https://skillicons.dev)
   
 </div>
 
