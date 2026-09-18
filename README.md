@@ -17,7 +17,7 @@
   </a>
 </p>
 
-Olá! 👋 Me chamo Gabriel Silverio, um desenvolvedor apaixonado por programação, aprender e resolver problemas complexos. Estou incessantemente perseguindo meus objetivos, expandindo meu conhecimento em desenvolvimento de software, Desenvolvimento Web Full stack, Desktop, Design de Sistemas e Integrações com IA.
+Olá! 👋 Me chamo Gabriel Silverio, um desenvolvedor apaixonado por programação, aprender e resolver problemas complexos. Estou incessantemente perseguindo meus objetivos, expandindo meu conhecimento em Desenvolvimento Web Full stack, Desktop, Mobile, Design de Sistemas e Integrações com agentes de IA.
 
 <div align="center">
   
