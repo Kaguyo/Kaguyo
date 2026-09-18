@@ -17,7 +17,7 @@
   </a>
 </p>
 
-.NET and Go developer with aaa little of TypeScript's ecosystem's taste, exploring System Design, AI Agents, Software Engineering and FullStack applications regardless it's Desktop, or Mobile
+**.NET**, **Go**, **TS** Developer always exploring New Products, System Design, AI Agents, Software Engineering and FullStack applications regardless it's Desktop, or Mobile
 
 <div align="center">
   
