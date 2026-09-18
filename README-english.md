@@ -17,7 +17,7 @@
   </a>
 </p>
 
-Hi there! 👋 I'm Gabriel Silverio, a passionate developer eager to code, learn and solve complex problems. I am relentlessly pursuing my goals, expanding my knowledge in software development, such as Fullstack Web Development, Desktop, System Design and AI integrated applications.
+.NET and Go developer with aaa little of TypeScript's ecosystem's taste, exploring System Design, AI Agents, Software Engineering and FullStack applications regardless it's Desktop, or Mobile
 
 <div align="center">
   
