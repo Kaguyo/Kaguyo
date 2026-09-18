@@ -17,13 +17,12 @@
   </a>
 </p>
 
-Olá! 👋 Me chamo Gabriel Silverio, um desenvolvedor apaixonado por programação, aprender e resolver problemas complexos. Estou incessantemente perseguindo meus objetivos, expandindo meu conhecimento em Desenvolvimento Web Full stack, Desktop, Mobile, Design de Sistemas e Integrações com agentes de IA.
+Desenvolvedor **.NET**, **Go** e **TS** sempre explorando novos Produtos, Design de sistemas, Agentes de IA, Engenharia de software e aplicações Full Stack, sejam Desktop ou Mobile.
 
 <div align="center">
   
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kaguyo&layout=donut&theme=radical&langs_count=5&hide=css,html,java,python,nsis)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
-  
 </div> 
 
 --- 
