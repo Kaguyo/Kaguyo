@@ -17,7 +17,7 @@
   </a>
 </p>
 
-Software Engineer **.NET**, **Go**, **TS** always exploring New Products, System Design, AI Agents, Software Engineering and FullStack applications regardless it's Desktop, or Mobile
+At my Hub you will find Software Engineering in **.NET**, **Go**, **TS** always exploring New Products, System Design, AI Agents, Software Engineering and FullStack applications regardless it's Desktop, or Mobile
 
 <div align="center">
   
