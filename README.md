@@ -17,7 +17,7 @@
   </a>
 </p>
 
-Desenvolvedor **.NET**, **Go** e **TS** sempre explorando novos Produtos, Design de sistemas, Agentes de IA, Engenharia de software e aplicações Full Stack, sejam Desktop ou Mobile.
+Engenheiro de Software **.NET**, **Go** e **TS** sempre explorando novos Produtos, Design de sistemas, Agentes de IA, e aplicações Full Stack, sejam Desktop ou Mobile.
 
 <div align="center">
   
