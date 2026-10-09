@@ -17,7 +17,7 @@
   </a>
 </p>
 
-**.NET**, **Go**, **TS** Developer always exploring New Products, System Design, AI Agents, Software Engineering and FullStack applications regardless it's Desktop, or Mobile
+Software Engineer **.NET**, **Go**, **TS** always exploring New Products, System Design, AI Agents, Software Engineering and FullStack applications regardless it's Desktop, or Mobile
 
 <div align="center">
   
