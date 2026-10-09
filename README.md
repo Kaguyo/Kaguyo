@@ -17,7 +17,7 @@
   </a>
 </p>
 
-Engenheiro de Software **.NET**, **Go** e **TS** sempre explorando novos Produtos, Design de sistemas, Agentes de IA, e aplicações Full Stack, sejam Desktop ou Mobile.
+Em meu Hub você encontrará Engenharia de Software em **.NET**, **Go** e **TS**, estou sempre explorando novos Produtos, Design de sistemas, Agentes de IA, e aplicações Full Stack, sejam Desktop ou Mobile.
 
 <div align="center">
   
